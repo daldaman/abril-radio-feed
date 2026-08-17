@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Persons (and their Ideas) of Interest</title>
+    <link>https://daldaman.github.io/abril-radio-feed/</link>
+    <description>Podcast Abrilesco</description>
+    <language>en</language>
+    <itunes:author>Abril</itunes:author>
+    <itunes:image href="https://daldaman.github.io/abril-radio-feed/artwork.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>The Enchantress of Numbers</title>
+      <description>This episode of Persons of Interest explores the life and legacy of Ada Lovelace, the 19th-century mathematical genius widely regarded as the first computer programmer. Hosts Zoe and Maya discuss her unique upbringing, her collaboration with Charles Babbage on the Analytical Engine, and her visionary realization that machines could manipulate symbols beyond mere numbers.</description>
+      <guid isPermaLink="false">ep-bac0b3f0887f8274</guid>
+      <pubDate>Mon, 17 Aug 2026 18:25:33 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/abril-radio-feed/releases/download/ep-bac0b3f0887f8274/episode.mp3" length="4086431" type="audio/mpeg"/>
+      <itunes:duration>00:02:50</itunes:duration>
+      <itunes:author>Maya &amp; Zoe</itunes:author>
+      <itunes:image href="https://github.com/daldaman/abril-radio-feed/releases/download/ep-bac0b3f0887f8274/cover.png"/>
+    </item>
+  </channel>
+</rss>
