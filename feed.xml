@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Persons (and their Ideas) of Interest</title>
+    <title>&quot;Persons (and their Ideas) of Interest&quot;</title>
     <link>https://daldaman.github.io/abril-radio-feed/</link>
-    <description>Podcast Abrilesco</description>
+    <description>&quot;Podcast Abrilesco&quot;</description>
     <language>en</language>
-    <itunes:author>Abril</itunes:author>
+    <itunes:author>&quot;Abril&quot;</itunes:author>
     <itunes:image href="https://daldaman.github.io/abril-radio-feed/artwork.png"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Real Cyrano de Bergerac</title>
+      <description>This episode of Persons of Interest explores the true identity of Savinien de Cyrano de Bergerac, revealing he was a seventeenth-century science fiction pioneer rather than just a tragic romantic hero. Hosts Maya and Zoe discuss how playwright Edmond Rostand fictionalized his life, creating the famous romantic legend we know today.</description>
+      <guid isPermaLink="false">ep-485d195d4d3b139e</guid>
+      <pubDate>Mon, 17 Aug 2026 23:27:39 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/abril-radio-feed/releases/download/ep-485d195d4d3b139e/episode.mp3" length="3935338" type="audio/mpeg"/>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:author>Maya</itunes:author>
+      <itunes:image href="https://github.com/daldaman/abril-radio-feed/releases/download/ep-485d195d4d3b139e/cover.jpg"/>
+    </item>
     <item>
       <title>The Enchantress of Numbers</title>
       <description>This episode of Persons of Interest explores the life and legacy of Ada Lovelace, the 19th-century mathematical genius widely regarded as the first computer programmer. Hosts Zoe and Maya discuss her unique upbringing, her collaboration with Charles Babbage on the Analytical Engine, and her visionary realization that machines could manipulate symbols beyond mere numbers.</description>
