@@ -1,5 +1,16 @@
 [
   {
+    "guid": "ep-485d195d4d3b139e",
+    "title": "The Real Cyrano de Bergerac",
+    "summary": "This episode of Persons of Interest explores the true identity of Savinien de Cyrano de Bergerac, revealing he was a seventeenth-century science fiction pioneer rather than just a tragic romantic hero. Hosts Maya and Zoe discuss how playwright Edmond Rostand fictionalized his life, creating the famous romantic legend we know today.",
+    "host": "Maya",
+    "durationSec": 163,
+    "pubDate": "2026-08-17T23:27:39.631Z",
+    "audioUrl": "https://github.com/daldaman/abril-radio-feed/releases/download/ep-485d195d4d3b139e/episode.mp3",
+    "audioBytes": 3935338,
+    "coverUrl": "https://github.com/daldaman/abril-radio-feed/releases/download/ep-485d195d4d3b139e/cover.jpg"
+  },
+  {
     "guid": "ep-bac0b3f0887f8274",
     "title": "The Enchantress of Numbers",
     "summary": "This episode of Persons of Interest explores the life and legacy of Ada Lovelace, the 19th-century mathematical genius widely regarded as the first computer programmer. Hosts Zoe and Maya discuss her unique upbringing, her collaboration with Charles Babbage on the Analytical Engine, and her visionary realization that machines could manipulate symbols beyond mere numbers.",
