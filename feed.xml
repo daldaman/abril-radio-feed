@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
+      <title>The Great Transit Divide</title>
+      <description>In this episode of &quot;Persons (and their Ideas) of Interest,&quot; hosts Maya and Zoe delve into metropolitan fragmentation and the academic theories explaining regional governance. They analyze the stark disparity in transit ridership between Canadian and American cities, highlighting how provincial authority, density, highway planning, and network design shape modern urban transit landscapes.</description>
+      <guid isPermaLink="false">ep-d52db0235777575b</guid>
+      <pubDate>Tue, 18 Aug 2026 16:58:28 GMT</pubDate>
+      <enclosure url="https://github.com/daldaman/abril-radio-feed/releases/download/ep-d52db0235777575b/episode.mp3" length="25584161" type="audio/mpeg"/>
+      <itunes:duration>00:17:45</itunes:duration>
+      <itunes:author>Maya</itunes:author>
+    </item>
+    <item>
       <title>The Real Cyrano de Bergerac</title>
       <description>This episode of Persons of Interest explores the true identity of Savinien de Cyrano de Bergerac, revealing he was a seventeenth-century science fiction pioneer rather than just a tragic romantic hero. Hosts Maya and Zoe discuss how playwright Edmond Rostand fictionalized his life, creating the famous romantic legend we know today.</description>
       <guid isPermaLink="false">ep-485d195d4d3b139e</guid>
